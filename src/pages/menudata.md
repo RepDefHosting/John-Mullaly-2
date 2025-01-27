@@ -5,5 +5,5 @@ menuItems:
   - slug: /
     label: Home
   - slug: /profile
-    label: Profile
+    label: About
 ---
