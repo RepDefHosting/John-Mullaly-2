@@ -10,7 +10,7 @@ metaDescription: Drawing on a 25-year career working at investment banks with
   define and execute on investor outreach and engagement strategies.
 published: true
 schemaType: ProfilePage
-header: Profile
+header: John Mullaly - Private investor
 featuredImage:
   src: /img/pic-executive-banner-profile-01.webp
   alt: John Mullaly - Private investor
