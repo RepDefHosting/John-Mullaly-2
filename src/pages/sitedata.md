@@ -1,7 +1,7 @@
 ---
 templateKey: site-data
 published: true
-name: John Steven Mullaly
+name: John Mullaly
 jobTitle: Private investor
 location: Cohasset, MA
 profileImage:
